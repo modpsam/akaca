@@ -748,6 +748,12 @@ a.more-btn::after {
   border: 2px solid #FF1949;
 }
 
+.btn-themee {
+  background-color: #008000;
+  color: #ffffff !important;
+  border: 2px solid #008000;
+}
+
 .btn-theme.border {
   background-color: transparent;
   color: #FF1949 !important;
