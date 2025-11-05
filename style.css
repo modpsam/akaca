@@ -516,7 +516,7 @@ a.more-btn::after {
 
 .default-padding.bottom-less {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
 }
 
 .default-padding-bottom.bottom-less {
